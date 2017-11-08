@@ -23,5 +23,5 @@
     "angular-ui-router": "~0.2.15"
   },
   "name": "jsapp",
-  "private": true
+  "private": false
 }
